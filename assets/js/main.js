@@ -1,13 +1,13 @@
 const pokemonList = document.getElementById("pokemonList");
 const searchInput = document.getElementById("searchInput");
 const filterButtons = document.querySelectorAll(".filter-btn");
-const loadMoreButton = document.getElementById("loadMoreButton"); // Vamos usar só para mostrar "Carregando..." inicial
+const loadMoreButton = document.getElementById("loadMoreButton"); 
 
 const modal = document.getElementById("pokedexModal");
 const modalContentScreen = document.getElementById("modalContent");
 const closeModalButton = document.getElementById("closeModalButton");
 
-// Removemos a lógica complexa de paginação
+
 let allPokemonsLoaded = [];
 let currentSearchTerm = "";
 let currentTypeFilter = "all";
