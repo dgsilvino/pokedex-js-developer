@@ -43,7 +43,7 @@ pokeApi.getPokemonDetail = (pokemon) => {
 };
 
 pokeApi.getPokemons = (offset = 0, limit = 151) => {
-  // Alterado para buscar todos de uma vez
+ 
   const url = `https://pokeapi.co/api/v2/pokemon?offset=${offset}&limit=${limit}`;
 
   return fetch(url)
