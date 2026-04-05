@@ -44,7 +44,7 @@ O objetivo inicial do desafio era consumir a PokéAPI e listar os Pokémons usan
 Como este é um projeto focado em Front-end (Vanilla), a execução é super simples e não exige a instalação de pacotes complexos (Node, NPM, etc).
 
 1. Faça o clone deste repositório na sua máquina:
-   git clone [[dgsilvino/pokedex-js-developer · GitHub](https://github.com/dgsilvino/pokedex-js-developer.git)](https://github.com/seu-usuario/nome-do-repositorio.git)
+   git clone [dgsilvino/pokedex-js-developer · GitHub](https://github.com/dgsilvino/pokedex-js-developer.git)
 
 2. Entre na pasta do projeto:
       cd nome-do-repositorio
