@@ -16,6 +16,10 @@ Este projeto é uma Pokédex interativa desenvolvida como parte do Desafio de Pr
 
 O objetivo inicial do desafio era consumir a PokéAPI e listar os Pokémons usando JavaScript puro (Vanilla). No entanto, este projeto foi expandido muito além do escopo original, ganhando um design inspirado na Pokédex clássica do anime, lógicas de filtragem locais e consumo de múltiplas APIs simultaneamente.
 
+
+
+> 🔗 **Acesse o projeto online:** [Clique aqui para testar a Pokédex]([Pokedex](https://dgsilvino.github.io/pokedex-js-developer/))
+
 ## ✨ Funcionalidades Adicionadas (Além do Desafio Original)
 
 - **Design Aprimorado:** Interface customizada com tema da Pokédex clássica, incluindo logos, barra de rolagem e paleta de cores baseada nos tipos dos Pokémons.
