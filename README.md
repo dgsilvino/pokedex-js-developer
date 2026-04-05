@@ -18,7 +18,7 @@ O objetivo inicial do desafio era consumir a PokéAPI e listar os Pokémons usan
 
 
 
-> 🔗 **Acesse o projeto online:** [Clique aqui para testar a Pokédex]([Pokedex](https://dgsilvino.github.io/pokedex-js-developer/))
+> 🔗 **Acesse o projeto online:** [Clique aqui para testar a Pokédex](https://dgsilvino.github.io/pokedex-js-developer/)
 
 ## ✨ Funcionalidades Adicionadas (Além do Desafio Original)
 
