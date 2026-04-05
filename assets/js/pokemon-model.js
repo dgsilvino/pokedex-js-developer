@@ -4,8 +4,6 @@ class Pokemon {
   type;
   types = [];
   photo;
-
-  // --- Novos Campos para o Modal ---
   weight;
   height;
   stats = {
